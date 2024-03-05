@@ -19,7 +19,7 @@ Author: Felipe Lira
 Data: 05/03/2024
 =================================================
 
-Function: Frees Session locked the Cut Trough ONT
+Function: Unloock Session locked the Cut Trough ONT
 
 If allocked IP address diferent of 0.0.0.0, execute
 command snmpset for liberate the connection.
